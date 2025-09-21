@@ -17,4 +17,5 @@ public class BookDTO {
 
     private String category;
 
+    private String author;
 }
